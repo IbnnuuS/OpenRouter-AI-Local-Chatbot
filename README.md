@@ -8,7 +8,7 @@ A **modular Python chatbot** that integrates with OpenRouter API, supporting bot
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## ✨ **Features**
-git commit -m "first commit"
+
 ### 🎯 **Dual Interface Support**
 - **🖥️ CLI Interface** - Interactive command-line chatbot
 - **📱 Telegram Bot** - Full-featured Telegram integration
